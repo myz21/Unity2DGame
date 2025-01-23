@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 3924138299
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3637758519
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 845232421
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1816190379
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 1210858885
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3502582403
+    locked: 0
+  - name: Ground
+    uniqueID: 3132414931
+    locked: 0
+  - name: User Layer 8
+    uniqueID: 1977810351
+    locked: 0
