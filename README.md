@@ -36,9 +36,8 @@ The project includes the following important folders:
 * Improve UI/UX for a better user experience.
 
 ## Screenshots
-![In Game](./Screenshots/Screenshot from 2025-01-23 11-18-58.png)
-![In Game](./Screenshots/Screenshot from 2025-01-23 11-18-58.png)
-
+![In Game](./Screenshots/Screenshot%20from%202025-01-23%2011-18-58.png) 
+![In Game](./Screenshots/Screenshot%20from%202025-01-23%2011-18-58.png)
 
 ## Feedback and Contributions
 As this is my first Unity project, any feedback and suggestions for improvements are highly welcome. Feel free to fork the repository and submit pull requests with enhancements.
