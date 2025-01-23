@@ -24,13 +24,19 @@ If you want to run the project without errors, please make sure the DataManager 
 2. Ensure that the DataManager GameObject and its script are disabled.
 3. Play the scene to see the menu and interact with the buttons.
 
+## Project Structure
+The project includes the following important folders:
+* **Assets**: Contains all the game assets, including scenes, scripts, and UI elements.
+* **Packages**: Contains the project’s dependencies and package configurations.
+* **ProjectSettings**: Contains project-specific settings like input configurations, quality settings, and other settings essential for the project.
+
 ## Future Improvements
 * Debug and fix the issues related to the DataManager script.
 * Add more interactive elements and functionalities.
 * Improve UI/UX for a better user experience.
 
 ## Screenshots
+![Menu Scene](./Assets/Screenshots/menu_scene.png)  <!-- Change this path to your actual screenshot location -->
 
 ## Feedback and Contributions
 As this is my first Unity project, any feedback and suggestions for improvements are highly welcome. Feel free to fork the repository and submit pull requests with enhancements.
-
