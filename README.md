@@ -37,12 +37,15 @@ The project includes the following important folders:
 
 ## Screenshots
 
-<img src="./Screenshots/Screenshot%20from%202025-01-23%2011-18-58.png" alt="In Game" width="45%" style="display:inline-block; margin-right:10px;">
-<img src="./Screenshots/Screenshot%20from%202025-01-23%2011-19-45.png" alt="In Game" width="45%" style="display:inline-block; margin-right:10px;">
-<img src="./Screenshots/Screenshot%20from%202025-01-23%2012-31-53.png" alt="In Game 1" width="45%" style="display:inline-block; margin-right:10px;">
-<img src="./Screenshots/Screenshot%20from%202025-01-23%2012-31-07.png" alt="In Game 2" width="45%" style="display:inline-block; margin-right:10px;">
-<img src="./Screenshots/Screenshot%20from%202025-01-23%2012-30-31.png" alt="In Game 3" width="45%" style="display:inline-block; margin-right:10px;">
-<img src="./Screenshots/Screenshot%20from%202025-01-23%2012-25-59.png" alt="In Game 4" width="45%" style="display:inline-block;">
+## Screenshots
+
+<img src="./Screenshots/Screenshot%20from%202025-01-23%2011-18-58.png" alt="In Game" width="55%" style="display:inline-block; margin-right:10px;">
+<img src="./Screenshots/Screenshot%20from%202025-01-23%2011-19-45.png" alt="In Game" width="55%" style="display:inline-block; margin-right:10px;">
+<img src="./Screenshots/Screenshot%20from%202025-01-23%2012-31-53.png" alt="In Game 1" width="55%" style="display:inline-block; margin-right:10px;">
+<img src="./Screenshots/Screenshot%20from%202025-01-23%2012-31-07.png" alt="In Game 2" width="55%" style="display:inline-block; margin-right:10px;">
+<img src="./Screenshots/Screenshot%20from%202025-01-23%2012-30-31.png" alt="In Game 3" width="55%" style="display:inline-block; margin-right:10px;">
+<img src="./Screenshots/Screenshot%20from%202025-01-23%2012-25-59.png" alt="In Game 4" width="55%" style="display:inline-block;">
+
 
 
 ## Feedback and Contributions
